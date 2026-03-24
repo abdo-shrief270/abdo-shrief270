@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [E-commerce website](midora-store.com)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Advanced Laravel**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdo-shrief](https://www.linkedin.com/in/abdo-shrief)
 
